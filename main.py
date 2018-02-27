@@ -3,9 +3,6 @@ import time
 from generateDict import generateDict as Dict
 
 pp = model()
-# pp.train('gutenberg/',0)
-# pp.train('brown/',1)
-# pp.train('brown_gutenberg/',2)
 
 print "S1: Train: D1-Train, Test: D1-Test"
 print "-------------------------------------"
